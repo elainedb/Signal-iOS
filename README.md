@@ -1,4 +1,4 @@
-# Signal iOS - elainedb fork
+# Signal iOS - elainedb fork_
 
 Signal is a free, open source, messaging app for simple private communication with friends. 
 
